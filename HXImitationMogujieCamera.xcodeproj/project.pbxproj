@@ -56,6 +56,7 @@
 		E42170661D2CEA260000DE00 /* UIImageView+HighlightedWebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = E42170541D2CEA260000DE00 /* UIImageView+HighlightedWebCache.m */; };
 		E42170671D2CEA260000DE00 /* UIImageView+WebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = E42170561D2CEA260000DE00 /* UIImageView+WebCache.m */; };
 		E42170681D2CEA260000DE00 /* UIView+WebCacheOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = E42170581D2CEA260000DE00 /* UIView+WebCacheOperation.m */; };
+		E46F177F1D2E4EBF000456AC /* xiaoguo.gif in Resources */ = {isa = PBXBuildFile; fileRef = E46F177E1D2E4EBF000456AC /* xiaoguo.gif */; };
 		E49F71C91D2B98A100A6A746 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E49F71C81D2B98A100A6A746 /* main.m */; };
 		E49F71CC1D2B98A100A6A746 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E49F71CB1D2B98A100A6A746 /* AppDelegate.m */; };
 		E49F71D41D2B98A100A6A746 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E49F71D31D2B98A100A6A746 /* Assets.xcassets */; };
@@ -155,6 +156,8 @@
 		E42170561D2CEA260000DE00 /* UIImageView+WebCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+WebCache.m"; sourceTree = "<group>"; };
 		E42170571D2CEA260000DE00 /* UIView+WebCacheOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+WebCacheOperation.h"; sourceTree = "<group>"; };
 		E42170581D2CEA260000DE00 /* UIView+WebCacheOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+WebCacheOperation.m"; sourceTree = "<group>"; };
+		E46F177C1D2E4EA5000456AC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E46F177E1D2E4EBF000456AC /* xiaoguo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = xiaoguo.gif; sourceTree = "<group>"; };
 		E49F71C41D2B98A100A6A746 /* HXImitationMogujieCamera.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HXImitationMogujieCamera.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E49F71C81D2B98A100A6A746 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E49F71CA1D2B98A100A6A746 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -404,6 +407,8 @@
 		E49F71BB1D2B98A100A6A746 = {
 			isa = PBXGroup;
 			children = (
+				E46F177E1D2E4EBF000456AC /* xiaoguo.gif */,
+				E46F177C1D2E4EA5000456AC /* README.md */,
 				E49F71C61D2B98A100A6A746 /* HXImitationMogujieCamera */,
 				E49F71C51D2B98A100A6A746 /* Products */,
 			);
@@ -499,6 +504,7 @@
 				E42170251D2CB2460000DE00 /* HXAddPhotoCollectionViewCell.xib in Resources */,
 				E42170301D2CB2460000DE00 /* HXPhotoCell.xib in Resources */,
 				E42170341D2CB2460000DE00 /* HXPhotoSecondCollectionViewCell.xib in Resources */,
+				E46F177F1D2E4EBF000456AC /* xiaoguo.gif in Resources */,
 				E42170271D2CB2460000DE00 /* HXHomeAddPhotoCell.xib in Resources */,
 				E421702D1D2CB2460000DE00 /* SXImageCell.xib in Resources */,
 				E42170321D2CB2460000DE00 /* HXPhotoFirstCollectionViewCell.xib in Resources */,
