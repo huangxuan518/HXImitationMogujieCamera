@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "23C686D832DDB905A797747C3565AAD8F546DF89",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "b9bf3b7a-15bf-11e6-aeb7-2707c35fd5a7++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "23C686D832DDB905A797747C3565AAD8F546DF89" : 0,
+    "b9bf3b7a-15bf-11e6-aeb7-2707c35fd5a7++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FD2102ED-75C5-443F-BC36-94CA884D6CF2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "23C686D832DDB905A797747C3565AAD8F546DF89" : "HXBaseProjectDemo\/",
+    "b9bf3b7a-15bf-11e6-aeb7-2707c35fd5a7++505" : "iOS-SHMerchant\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HXBaseProjectDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HXBaseProjectDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/huangxuan518\/HXBaseProjectDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "23C686D832DDB905A797747C3565AAD8F546DF89"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/115.231.94.29\/yiss\/merchant\/ddm\/iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b9bf3b7a-15bf-11e6-aeb7-2707c35fd5a7++505"
+    }
+  ]
+}
