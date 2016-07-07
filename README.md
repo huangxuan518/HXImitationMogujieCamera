@@ -2,6 +2,6 @@
 仿蘑菇街相机拍照模块部分功能
 
 # 效果图
-![image](https://github.com/huangxuan518/HXEasyCustomShareView/blob/master/HXEasyCustomShareView/xiaoguo.gif)
+![image](https://github.com/huangxuan518/HXImitationMogujieCamera/blob/master/xiaoguo.gif)
 
 
